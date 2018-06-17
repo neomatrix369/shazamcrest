@@ -22,7 +22,7 @@
 		</license>
 	</licenses>
 
-	<developers />
+	<developers/>
 
 	<scm>
 		<connection>scm:git:git://github.com/shazam/shazamcrest.git</connection>
@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>org.skyscreamer</groupId>
 			<artifactId>jsonassert</artifactId>
-			<version>1.2.0</version>
+			<version>1.2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
